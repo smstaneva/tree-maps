@@ -1,4 +1,4 @@
-# relational-algebra-query-tree
+# tree-maps
 Set up the development environment:
 
 - Install Git
